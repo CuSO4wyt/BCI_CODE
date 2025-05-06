@@ -1,7 +1,4 @@
-# BCI_CODE
-Sure! Here’s a template for a `README.md` file for your Brain-Computer Interface (BCI) based deception detection system code.
 
----
 
 # BCI Deception Detection System
 
